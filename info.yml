@@ -3,11 +3,11 @@ project:
   owner: 'CS105-23'
   teamId: '999'
   identities:
-    heroku:
-      url: 'https://bjc-teacher-tracker-2022.herokuapp.com'
+    pivotal:
+      url: 'https://www.pivotaltracker.com/n/projects/2631706'
   members:
     member1:
       name: 'Rtest'
       surname: 'Ftester' 
       githubUsername: 'raffrearaUS'
-      herokuEmail: 'thisemaildoesnotexist@gmail.com'
+      pivotalUsername: 'rafaelfresno'
