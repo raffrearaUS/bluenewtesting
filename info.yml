@@ -1,16 +1,9 @@
 project:
-  name: 'Blue New Testing'
-  owner: 'CS169L-23'
-  teamId: '123'
-  identities:
-    pivotal:
-      url: 'https://www.pivotaltracker.com/n/projects/2631706'
-    heroku:
-      url: 'https://bjc-teacher-tracker-2022.herokuapp.com'
+  name: 'Blue Summer Testing'
+  owner: 'CS105-23'
+  teamId: '999'
   members:
     member1:
       name: 'Rtest'
       surname: 'Ftester' 
       githubUsername: 'raffrearaUS'
-      pivotalUsername: 'rafaelfresno'
-      herokuEmail: 'blutestmailnotexists@gmail.com'
